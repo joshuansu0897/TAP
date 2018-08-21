@@ -1,16 +1,10 @@
 package tarea2;
 
-import java.awt.Color;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.net.InetAddress;
 import java.net.Socket;
 import java.util.Scanner;
-import javax.swing.JTextPane;
-import javax.swing.text.AttributeSet;
-import javax.swing.text.SimpleAttributeSet;
-import javax.swing.text.StyleConstants;
-import javax.swing.text.StyleContext;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
