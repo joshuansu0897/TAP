@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">App1</string>
+    <string name="botton">Calcular</string>
+    <string name="a">a:</string>
+    <string name="b">b:</string>
+    <string name="c">c:</string>
+    <string name="x1">x1:</string>
+    <string name="x2">x2:</string>
+    <string name="numero">4</string>
 </resources>
